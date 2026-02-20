@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "subte-update",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bff60ae9-286b-4b0c-97fe-f75daf92ea7a",
+			"database_name": "subte-update-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
